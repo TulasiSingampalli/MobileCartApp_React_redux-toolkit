@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.card-img-top {
+  max-height: 200px;
+  object-fit: contain;
+}
